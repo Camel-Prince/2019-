@@ -1,0 +1,17 @@
+debug/mywidget1.o
+debug/data.o
+debug/drawline.o
+debug/firstlevel.o
+debug/main.o
+debug/beginmainwindow.o
+debug/mywidget.o
+debug/secondleveln.o
+debug/widget.o
+debug/qrc_pictures.o
+debug/moc_mywidget1.o
+debug/moc_beginmainwindow.o
+debug/moc_drawline.o
+debug/moc_firstlevel.o
+debug/moc_mywidget.o
+debug/moc_secondleveln.o
+debug/moc_widget.o

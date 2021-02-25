@@ -1,0 +1,17 @@
+release/mywidget1.o
+release/data.o
+release/drawline.o
+release/firstlevel.o
+release/main.o
+release/beginmainwindow.o
+release/mywidget.o
+release/secondleveln.o
+release/widget.o
+release/qrc_pictures.o
+release/moc_mywidget1.o
+release/moc_beginmainwindow.o
+release/moc_drawline.o
+release/moc_firstlevel.o
+release/moc_mywidget.o
+release/moc_secondleveln.o
+release/moc_widget.o
